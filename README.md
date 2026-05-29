@@ -13,29 +13,48 @@ Olá! Me chamo Eduardo Murta, graduando em **Ciência da Computação** na **PUC
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Languages and Tools
 
-### 💪 Estudando & Praticando Atualmente
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Verilog-00599C?style=for-the-badge&logo=microchip&logoColor=white" alt="Verilog"/>
+### 💻 Linguagens & Desenvolvimento Backend/Frontend
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+  </a>
 </p>
 
-### 📚 Conhecimento & Experiência com
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+### 🗄️ Banco de Dados & Nuvem
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="45" height="45"/>
+  </a>
 </p>
 
-### ⚙️ Meu Ecossistema / Workflow
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+### ⚙️ Workflow, Ambiente & Design
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
+  </a>
 </p>
 
 ---
