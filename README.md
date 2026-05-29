@@ -5,11 +5,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou o Eduardo Murta, graduando em **Ciência da Computação**. Sou um entusiasta de tecnologia focado em entender como as coisas funcionam de verdade — desde a lógica digital de baixo nível até o desenvolvimento de softwares robustos.
+Olá! Me chamo Eduardo Murta, graduando em **Ciência da Computação** na **PUC Minas**. Sou um entusiasta de tecnologia focado em entender como as coisas funcionam de verdade.
 
-* 🎓 Atualmente focado na faculdade, dominando estruturas de dados, algoritmos e lógica digital.
+* 🎓 Atualmente focado na faculdade.
 * 🚀 Buscando minha primeira oportunidade de **estágio em desenvolvimento de software** para aplicar a teoria no mundo real.
-* 🐧 Entusiasta do ecossistema **Linux** e fascinado por customização e produtividade no terminal.
+* 🐧 Entusiasta do ecossistema **Linux** e fascinado por customização e produtividade.
 
 ---
 
