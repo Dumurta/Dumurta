@@ -46,8 +46,8 @@ Olá! Me chamo Eduardo Murta, graduando em **Ciência da Computação** na **PUC
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardomurta&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Eduardo's GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomurta&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="160em" src="https://github-readme-stats.anuraghazra.dev/api?username=eduardomurta&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Eduardo's GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=eduardomurta&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
